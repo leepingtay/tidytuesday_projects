@@ -15,3 +15,5 @@ RStudio
 
 ###Author
 Lee Ping Tay
+
+#### *Please leave a review or star the github repository if you like it. Thank you.
