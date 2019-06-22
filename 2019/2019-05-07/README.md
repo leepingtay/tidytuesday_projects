@@ -17,4 +17,5 @@ RStudio
 Author
 Lee Ping Tay
 
-![alt text](https://raw.githubusercontent.com/leepingtay/tidytuesday_projects/2019/2019-05-07/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/leepingtay/tidytuesday_projects/2019/2019-05-07/Tertiary_StudenttoTeacherRatio.png)
+
