@@ -10,6 +10,8 @@ Explored data on Nobel prize winners and created data visualization.
 The dataset contains information such as Nobel prize winners' name, country, prize name, and 
 category between 1901 to 2016.
 
+![](Top10NobelPrize_countries.png)
+
 #### Prerequisite
 RStudio
 
