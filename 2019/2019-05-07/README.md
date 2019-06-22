@@ -11,11 +11,12 @@ Created data visualization on global student to teacher ratios in tertiary educa
 Introduction
 The dataset contains information about global student to teacher ratios from 2012 to 2017.
 
+![](leepingtay/tidytuesday_projects/2019/2019-05-07/Tertiary_StudenttoTeacherRatio.png)
+
+
 Prerequisite
 RStudio
 
 Author
 Lee Ping Tay
-
-![alt text](https://raw.githubusercontent.com/leepingtay/tidytuesday_projects/2019/2019-05-07/Tertiary_StudenttoTeacherRatio.png)
 
