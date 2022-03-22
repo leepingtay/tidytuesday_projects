@@ -1,5 +1,5 @@
 ### The Economist
-Explored data on women in research and created data visualization using R.
+Explored data on women in research and created data visualization using R (tidyverse, viridis).
 
 #### Source of dataset
 rfordatascience/tidytuesday https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-04-16
