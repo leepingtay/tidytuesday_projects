@@ -1,5 +1,5 @@
 ### Tennis Grand Slam
-Explored data on tennis grand slam players and created data visualization.
+Explored data on tennis grand slam players and created data visualization using R (dplyr, tidyr, readr, lubridate, ggplot2).
 
 #### Source of dataset
 rfordatascience/tidytuesday https://github.com/rfordatascience/tidytuesday/blob/master/data/2019/2019-04-02/bike_traffic.csv
