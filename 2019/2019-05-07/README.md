@@ -1,5 +1,5 @@
 ### Global Student to Teacher Ratios
-Explored data on global student to teacher ratios and created data visualization.
+Explored data on global student to teacher ratios and created data visualization using R (tidyverse).
 
 #### Source of dataset
 rfordatascience/tidytuesday 
